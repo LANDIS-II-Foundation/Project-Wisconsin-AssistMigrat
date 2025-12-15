@@ -1,0 +1,8 @@
+LandisData "Base BDA"
+
+Timestep 10
+
+MapNames	bda/{agentName}-{timestep}.img
+LogFile		bda/bda-log.csv
+
+BDAInputFiles	../BDA-EAB.txt
